@@ -60,11 +60,11 @@ public class ListViewAdapter extends BaseAdapter {
 		resultp = data.get(position);
 
 		// Locate the TextViews in listview_item.xml
-		rank = (TextView) itemView.findViewById(R.id.rank); // title
-		country = (TextView) itemView.findViewById(R.id.country); // title
-		population = (TextView) itemView.findViewById(R.id.population); // artist
+		rank = (TextView) itemView.findViewById(R.id.rank); 
+		country = (TextView) itemView.findViewById(R.id.country);
+		population = (TextView) itemView.findViewById(R.id.population); 
 		// Locate the ImageView in listview_item.xml
-		flag = (ImageView) itemView.findViewById(R.id.flag); // artist
+		flag = (ImageView) itemView.findViewById(R.id.flag);
 
 		// Capture position and set results to the TextViews
 		rank.setText(resultp.get(MainActivity.RANK));
