@@ -3,7 +3,7 @@ Android JSON Parse Images and Texts Tutorial
 
 Android JSON Parse Images and Texts Tutorial
 
-This app refers to the tutorial about how to to parse JSON images and texts in your android applications. 
+This app refers to the tutorial about how to parse JSON images and texts in your android applications. 
 
 Visit our tutorial link @ http://www.androidbegin.com/tutorial/android-json-parse-images-and-texts-tutorial/
 
